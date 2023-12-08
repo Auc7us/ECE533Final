@@ -27,7 +27,7 @@ $ python shreddIt.py \
 --puzzle_number <puzzle number> \
 --num_shreds <number of shreds>
 ```
-3) Open the notebook and change the range of the following function from 10,12 to the required. (These are the puzzle numbers to stitch)
+3) Open the notebook and change the range of the following function from 10,13 to the required. (These are the puzzle numbers to stitch)
 ![image](https://github.com/Auc7us/ECE533Final/assets/35758803/ad393808-a82e-44e6-82d7-1cafc64d4313)
 
 ## Examples
