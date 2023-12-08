@@ -28,11 +28,11 @@ $ python shreddIt.py \
 --num_shreds <number of shreds>
 ```
 3) Open the notebook and change the range of the following function from 10,12 to the required. (These are the puzzle numbers to stitch)
-![image](https://github.com/Auc7us/ECE533Final/assets/35758803/e0f21c52-6c43-4e3f-81b4-b6a4f7acb96d)
+![image](https://github.com/Auc7us/ECE533Final/assets/35758803/ad393808-a82e-44e6-82d7-1cafc64d4313)
 
- 
 ## Examples
-![image](https://github.com/Auc7us/ECE533Final/assets/35758803/3589aa01-961b-4ac2-bdd4-9f6f0722fbf5)
+![image](https://github.com/Auc7us/ECE533Final/assets/35758803/2b7c7a5b-3552-4ae4-963f-3209da0ce389)
+
 
 
 
